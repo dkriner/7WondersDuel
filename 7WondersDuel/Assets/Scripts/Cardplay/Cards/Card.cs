@@ -1,0 +1,10 @@
+﻿namespace Duel
+{
+    interface Card
+    {
+
+    }
+}
+
+
+

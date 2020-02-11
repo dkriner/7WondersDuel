@@ -1,0 +1,10 @@
+*.meta
+*.sln
+*.csproj
+*.vs
+
+
+Library/
+ProjectSettings/
+Temp/
+UnityPackageManager/
